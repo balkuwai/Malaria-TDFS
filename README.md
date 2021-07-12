@@ -7,5 +7,3 @@ This dataset has an equal number of parasited and uninfected images which is som
 The deep learning model uses a function to create the convolutional network and then followed by a set of fully connected dense layers.
 
 If you have any questions or suggestions to this model please don't hesitate to drop me a line.
-
-You should really go through the Jupyter notebook as it has all my comments in it but I also provided the same code in .py format in case you don't want to run it in a notebook.
