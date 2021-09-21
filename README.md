@@ -1,4 +1,4 @@
-# Malaria-TDFS
+# MalariaTDFS
 
 This is a collab notebook that uses the Malaria dataset provided in TensorFlow Datasets.
 
